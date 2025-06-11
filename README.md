@@ -14,31 +14,31 @@ Durante a disciplina, exploramos diversas técnicas de **pré-processamento de d
 
 ### Parte 1 — Pré-processamento e análise linguística
 
-#### Aula 02 — Primeiros passos com Python  
+#### [`introducao-python-para-pln.ipynb`](./introducao-python-para-pln.ipynb)  
 Revisão dos principais conceitos da linguagem Python, com foco em estruturas e funções úteis para PLN.
 
-#### Aula 03 — Processamento de texto e pré-processamento de dados  
+#### [`preprocessamento-texto-pln.ipynb`](./preprocessamento-texto-pln.ipynb)  
 Introdução ao tratamento de textos, incluindo a remoção de ruídos e preparação de dados para análise linguística.
 
-#### Aula 04 — Extração de características textuais  
+#### [`bag-of-words-vetorizacao.ipynb`](./bag-of-words-vetorizacao.ipynb)  
 Exploração da técnica **Bag of Words (BoW)** para representação textual. Conceitos de vetorização e análise de proximidade entre termos.
 
-#### Aula 05 — Análise sintática e estruturas linguísticas  
+#### [`analise-sintatica-corpus-spacy.ipynb`](./analise-sintatica-corpus-spacy.ipynb)  
 Introdução ao uso de **corpora** (como o livro *Ubirajara*) e bibliotecas como **spaCy** e **nltk** para identificação de classes gramaticais e análise de dependências.
 
-#### Aula 06 — Interpretação semântica e gramáticas  
+#### [`interpretacao-semantica-gramatica.ipynb`](./interpretacao-semantica-gramatica.ipynb)  
 Estudo de estruturas semânticas das palavras e suas relações gramaticais.
 
-#### Aula 07 — Descoberta de conhecimento em textos  
+#### [`mineracao-texto-descoberta-conhecimento.ipynb`](./mineracao-texto-descoberta-conhecimento.ipynb)  
 Mineração de textos, análise de frequência de palavras e extração de informações úteis, como datas ou classes.
 
-#### Aula 10 — Classificação de Sentimentos com Analisador Léxico  
+#### [`analise-sentimentos-nltk.ipynb`](./analise-sentimentos-nltk.ipynb)  
 Utilização do `SentimentIntensityAnalyzer` da biblioteca `nltk` para classificar automaticamente textos como positivos ou negativos. Aplicações práticas em análises de opinião e atendimento ao cliente.
 
-#### Aula 11 — Classificação de Textos com Aprendizado de Máquina  
+#### [`classificacao-texto-machine-learning.ipynb`](./classificacao-texto-machine-learning.ipynb)  
 Introdução ao uso de algoritmos de machine learning, como Naive Bayes, para classificar documentos textuais. Criação de modelos com `sklearn` e preparação de dados com `CountVectorizer`.
 
-#### Aula 13 — Geração de Texto com N-gramas  
+#### [`geracao-texto-n-gramas.ipynb`](./geracao-texto-n-gramas.ipynb)  
 Técnicas para geração de texto automático com base em modelos de N-gramas. Abordagem estatística para prever a próxima palavra com base em sequências anteriores.
 
 ---
@@ -59,4 +59,3 @@ Aplicação de técnicas como **TF-IDF** para extrair termos mais relevantes de 
 ## 🔗 Conecte-se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosantanacardoso)
-
