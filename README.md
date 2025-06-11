@@ -32,6 +32,15 @@ Estudo de estruturas semânticas das palavras e suas relações gramaticais.
 #### Aula 07 — Descoberta de conhecimento em textos  
 Mineração de textos, análise de frequência de palavras e extração de informações úteis, como datas ou classes.
 
+#### Aula 10 — Classificação de Sentimentos com Analisador Léxico  
+Utilização do `SentimentIntensityAnalyzer` da biblioteca `nltk` para classificar automaticamente textos como positivos ou negativos. Aplicações práticas em análises de opinião e atendimento ao cliente.
+
+#### Aula 11 — Classificação de Textos com Aprendizado de Máquina  
+Introdução ao uso de algoritmos de machine learning, como Naive Bayes, para classificar documentos textuais. Criação de modelos com `sklearn` e preparação de dados com `CountVectorizer`.
+
+#### Aula 13 — Geração de Texto com N-gramas  
+Técnicas para geração de texto automático com base em modelos de N-gramas. Abordagem estatística para prever a próxima palavra com base em sequências anteriores.
+
 ---
 
 ## 💡 Projetos
@@ -50,3 +59,4 @@ Aplicação de técnicas como **TF-IDF** para extrair termos mais relevantes de 
 ## 🔗 Conecte-se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavosantanacardoso)
+
